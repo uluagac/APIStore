@@ -1,0 +1,10 @@
+2025-03-17 21:39:18.3620 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-17 21:39:18.3854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-17 21:39:18.4196 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ersin\source\repos\uluagac\APIStore\WebApi\nlog.config
+2025-03-17 21:39:18.4468 Info Configuration initialized.
+2025-03-17 21:40:21.9449 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-17 21:40:21.9595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-17 21:40:21.9737 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ersin\source\repos\uluagac\APIStore\WebApi\nlog.config
+2025-03-17 21:40:21.9872 Info Configuration initialized.
+2025-03-17 21:41:21.0800 Info AppDomain Shutting down. LogFactory closing...
+2025-03-17 21:41:21.0800 Info LogFactory has been closed.
